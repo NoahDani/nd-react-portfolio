@@ -36,7 +36,7 @@ export default function() {
               <FontAwesomeIcon icon="map-marked-alt" />
             </div>
 
-            <div className="text">Jewell, KS</div>
+            <div className="text">Hays, KS</div>
           </div>
         </div>
       </div>
